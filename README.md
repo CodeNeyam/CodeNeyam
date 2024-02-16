@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, my name is Aymane Chaoui, and I'm a 🚀 full-stack web developer who is passionate about developing 🌟 online applications that are both responsive and user-friendly. HTML, CSS, JavaScript, React, PHP, and other computer languages and frameworks are just a few of the ones I've worked with in the past.<br><br>I have experience working with a variety of back-end technologies, including 🔥 Laravel, 🍃 MongoDB, and 🐬 MySQL. Building scalable and reliable back-end systems for cutting-edge online apps is something I enjoy doing.
+Hello! I'm Aymane Chaoui, a Full-Stack Developer based in Agadir, Morocco. With a year of hands-on experience, I specialize in a variety of technologies, including Python, HTML5, CSS3, JavaScript, JQuery, AJAX, TypeScript, PHP, Bootstrap, React, Redux, VueJS, NodeJS, Express, Laravel, and various databases.
 
 ## 🌐 Socials:
 
