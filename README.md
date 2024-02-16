@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello! I'm Aymane Chaoui, a Full-Stack Developer based in Agadir, Morocco. With a year of hands-on experience, I specialize in a variety of technologies, including Python, HTML5, CSS3, JavaScript, JQuery, AJAX, TypeScript, PHP, Bootstrap, React, Redux, VueJS, NodeJS, Express, Laravel, and various databases.
+Hello! I'm Aymane Chaoui, a Full-Stack Developer based in Agadir, Morocco. With a year of hands-on experience, I possess a strong foundation in Python, HTML5, CSS3, JavaScript, JQuery, AJAX, TypeScript, PHP, Bootstrap, React, Redux, VueJS, NodeJS, Express, Laravel, and various databases. To showcase my capabilities, please take a look at my portfolio: https://chaouidev.netlify.app/
 
 ## 🌐 Socials:
 
