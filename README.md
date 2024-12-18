@@ -21,7 +21,7 @@ I specialize in building scalable, high-performance web applications using the M
 - [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3XRUKXVQ53NM)
 
 ### Connect with Me
-- [LinkedIn]((https://www.linkedin.com/in/chaouidev/))
+- [LinkedIn]((https://www.linkedin.com/in/chaouidev))
 - [GitLab](https://gitlab.com/CodeNeyam)
 
 Always open to collaboration and contributing to open-source projects. Let’s build something great!
