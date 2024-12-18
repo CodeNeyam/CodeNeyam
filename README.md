@@ -1,18 +1,27 @@
-# 💫 About Me:
+# Hi, I’m Aymane Chaoui 👋
 
-Hello! I'm Aymane Chaoui, a Full-Stack Developer based in Agadir, Morocco. With a year of hands-on experience, I possess a strong foundation in Python, HTML5, CSS3, JavaScript, JQuery, AJAX, TypeScript, PHP, Bootstrap, React, Redux, VueJS, NodeJS, Express, Laravel, and various databases. To showcase my capabilities, please take a look at my portfolio: https://chaouidev.netlify.app/
+**Full Stack Developer | Tech Lead | MERN Stack & Cloud Enthusiast**
 
-## 🌐 Socials:
+I specialize in building scalable, high-performance web applications using the MERN stack, Docker, Kubernetes, and DevOps best practices. With 2+ years of professional experience, I’ve developed e-commerce platforms, mobile applications, and backend systems that drive real business value.
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CodeNeyam#2450) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-chaoui-966a35233/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/CodeNeyam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18945229) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ash_y6)
+### Tech Stack
+- **Languages & Frameworks:** JavaScript, Node.js, Python, React, Express, Django
+- **Databases:** MongoDB, SQL
+- **Cloud & DevOps:** Docker, Kubernetes, Serverless
+- **Other Tools:** Git, GitHub Actions, Firebase
 
-# 💻 Tech Stack:
+### Projects & Highlights
+- **[HSL Mobile App](https://hsl.ma/):** Integrated Flutter and serverless functions to enhance user experiences.
+- **[LIPAES E-Commerce Platform](https://www.lipaes.com/):** Built a scalable online store using MERN, Docker, and Kubernetes.
+- **[Salloum Company](https://salloumcompany.com/):** Led development of a responsive corporate website focused on user experience..
+- **HeyLead Confirmation System:** Implemented RESTful APIs to streamline order processes.
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Certifications
+- [IBM Back-End Development Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5HXMWPNZ3YG1)
+- [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3XRUKXVQ53NM)
 
-# 📊 GitHub Stats:
+### Connect with Me
+- [LinkedIn]([your-linkedin-profile-url](https://www.linkedin.com/in/chaouidev/))
+- [GitLab](https://gitlab.com/CodeNeyam)
 
-![](https://github-readme-stats.vercel.app/api?username=CodeNeyam&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeNeyam&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNeyam&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+Always open to collaboration and contributing to open-source projects. Let’s build something great!
