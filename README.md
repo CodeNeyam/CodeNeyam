@@ -1,85 +1,101 @@
-# 👋 Hi, I’m Aymane Chaoui  
+# 👋 Hi, I’m Aymane Chaoui
 
-**Backend Developer | Node.js & Cloud Specialist | Digital Transformation Enthusiast**  
-📍 Based in Morocco | 💼 Open to Freelance & Collaboration Opportunities  
-
----
-
-### 👨‍💻 About Me  
-I’m a backend developer passionate about building **scalable, secure, and high-performance applications**.  
-With **2+ years of experience**, I’ve led and contributed to projects that helped local and international businesses digitalize their operations — from **e-commerce systems** to **custom ERP and automation platforms**.  
+**Backend Developer (Node.js / Express / TypeScript)**  
+📍 Tetouan, Morocco • 📧 aymanechaouidev@gmail.com • 📞 +212 674006090  
 
 ---
 
-### ⚙️ Tech Stack  
-
-- **Languages & Frameworks:** Node.js, Express.js, JavaScript, Python, React, Django  
-- **Databases:** MongoDB, MySQL, Firebase  
-- **Cloud & DevOps:** Docker, Kubernetes, Nginx, Serverless, CI/CD (GitHub Actions & GitLab CI)  
-- **Tools & Skills:** Git, REST APIs, Postman, Firebase Cloud Functions, PM2, Linux, Agile  
+## 👨‍💻 About Me
+Backend developer with **2 years of experience** building **production REST APIs** and backend services using **Node.js, Express, and TypeScript**.  
+Strong focus on **secure authentication (JWT/OAuth2)**, clean API design, **database performance**, and **production stability/debugging**.  
+Hands-on with **MongoDB, PostgreSQL, Redis, Docker, Kubernetes, CI/CD (GitHub Actions)**, and **cloud deployments (AWS/Firebase)**.
 
 ---
 
-### 🚀 Featured Projects  
-
-#### 🛒 [LIPAES](https://www.lipaes.com/)  
-Large-scale **B2B e-commerce platform** for retailers and distributors.  
-- Built with **MERN**, containerized with **Docker**, and deployed via **Kubernetes**.  
-- Includes a complete **admin system** for pricing, inventory, and retailer management.  
-
-#### 📱 [HSL](https://hsl.ma/)  
-Mobile-first application built on the Lipaes architecture.  
-- Focused on **sales and retailer management**.  
-- Uses **Node.js** and **Firebase** for backend operations.  
-
-#### 🧺 [Bobébé Maroc](https://bobebemaroc.ma/)  
-A children’s clothing e-commerce brand powered by our in-house solution **MaghrebEcom**.  
-- End-to-end retail solution: product catalog, orders, payments, and analytics.  
-- [Instagram: @maghrebecom](https://www.instagram.com/maghrebecom/)  
-
-#### 🧱 [Desjoyaux Sud Maroc](https://desjoyaux-sud.ma/)  
-Custom ERP for **pool construction management**.  
-- Tracks imports from France, material costs, and project profitability.  
-
-#### 🐣 Poussin Admin  
-Internal ERP-style web app for poultry business operations.  
-- Handles stock purchase, growth tracking, and resale management.  
-
-#### ☎️ HeyLead  
-Lead confirmation platform between business owners and call-center agents.  
-- Designed and implemented REST APIs; project paused but full source code available.  
-
-#### 🔥 [Salloum Company](https://salloumcompany.com/)  
-Corporate website built with **Firebase** and **React**, optimized for SEO and speed.  
+## ⚙️ Core Skills
+**Backend & APIs:** Node.js, Express.js, TypeScript, REST APIs, Middleware, Validation, Pagination, Webhooks, API Security  
+**Auth & Security:** JWT, OAuth2, RBAC, Password Hashing, CORS  
+**Databases:** MongoDB, PostgreSQL, MySQL, SQL, Indexing, Query Optimization  
+**Caching & Messaging:** Redis (TTL, caching patterns), RabbitMQ (message queueing)  
+**DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda), Firebase, Linux, CI/CD, GitHub Actions  
+**Testing & Tools:** Jest, Supertest, Git, Postman, OpenAPI/Swagger
 
 ---
 
-### 🎓 Certifications  
+## 💼 Experience
 
-#### 🧠 Technical & Software  
-- [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3XRUKXVQ53NM)  
-- [IBM Back-End Development Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5HXMWPNZ3YG1)  
+### Backend Developer — Viralwave (Startup Agency) | Agadir, Morocco  
+**Nov 2023 – Dec 2025**  
+**Tech:** Node.js, Express, TypeScript, MongoDB, PostgreSQL, Redis, Docker, Kubernetes, AWS, GitHub Actions, Jest/Supertest, OpenAPI/Swagger, Postman  
+- Built and maintained **production REST APIs** (auth, users, RBAC/roles, admin workflows) using **Node.js/Express** with **MongoDB & PostgreSQL**  
+- Implemented **JWT auth + RBAC**, request validation, standardized error handling and response patterns  
+- Improved reliability via **production debugging**, structured logging, and defensive request handling  
+- Optimized DB performance using **indexing, query refactoring, and pagination** for better efficiency under load  
+- Applied **Redis caching (TTL, hot reads)** to reduce repetitive DB calls and improve response times  
+- Wrote automated tests (**Jest/Supertest**), supported **CI/CD (GitHub Actions)**, shipped **Dockerized** services for **Kubernetes** deployments  
 
-#### 📊 Analytics & Business  
-- [Human Resources Analytics – University of California, Irvine](https://www.coursera.org/account/accomplishments/verify/KHKA1U9VL7C7)  
-  *Data-driven HR decision-making, KPI analysis, and workforce optimization.*  
-
-#### 🕒 Productivity & Management  
-- [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity – University of California, Irvine](https://www.coursera.org/account/accomplishments/verify/CO5ITFASH4FZ)  
-  *Time & energy management, crisis prevention, and goal planning techniques.*  
-
-#### 🤖 Artificial Intelligence  
-- [Elements of AI for Business – MinnaLearn](https://courses.minnalearn.com/certificate/ar/elements-of-ai-for-business/985f42de-a383-417a-a18b-856f4cfa9f71)  
-  *Understanding AI applications, ethics, and data-driven strategy for business.*  
-
----
-
-### 🌐 Connect with Me  
-
-- **LinkedIn:** [linkedin.com/in/chaouidev](https://www.linkedin.com/in/chaouidev)  
-- **GitHub:** [github.com/CodeNeyam](https://github.com/CodeNeyam)  
-- **GitLab:** [gitlab.com/CodeNeyam](https://gitlab.com/CodeNeyam)  
+### Database Developer Intern — ElectroG Morocco (OFPPT Internship)  
+**Apr 2023 – May 2023**  
+**Tech:** SQL, MySQL/PostgreSQL, Schema Design, Indexing, Query Optimization, Reporting  
+- Optimized SQL queries for reporting and operational workflows; supported schema and index improvements  
+- Documented changes and delivered handover notes with reusable query examples for future maintenance  
 
 ---
 
-💡 *Always open to freelance or collaboration opportunities. Let’s build something impactful together!*  
+## 🚀 Key Projects
+- **Bobébé Maroc / MaghrebEcom** — https://bobebemaroc.ma  
+  *Remix (front), Firebase (backend/database)* — catalog, orders, payments, analytics  
+
+- **Ventrad Wholesale** — https://ventrad.co  
+  *Node.js/Express, PostgreSQL, Redis* — automation + caching  
+
+- **HSL Mobile Backend** — https://hsl.ma  
+  *Node.js, AWS Lambda* — serverless backend for mobile services  
+
+- **Salloum Platform** — https://salloumcompany.com  
+  *MERN + Firebase* — backend workflows/integrations  
+
+- **LIPAES E-commerce** — https://lipaes.com  
+  *Node.js, Docker, Kubernetes, CI/CD* — backend deployment workflows  
+
+- **HeyLead (Paused; code available)**  
+  Lead confirmation platform — designed & implemented REST APIs (Node.js/Express)  
+
+- **Desjoyaux Sud Maroc (Discontinued)** — https://desjoyaux-sud.ma  
+  ERP for pool construction — imports, costs, profitability (same owners as Poussin Admin)  
+
+---
+
+## 🎓 Education
+- **OFPPT — Full Stack Development (Bac+2)** (2021 – 2023)  
+- **Al Imam Al Ghazali — High School Degree** (2020)
+
+---
+
+## 🏅 Certifications (with links)
+- **IBM Full Stack Software Developer**  
+  https://www.coursera.org/account/accomplishments/professional-cert/3XRUKXVQ53NM  
+
+- **IBM Back-End Development**  
+  https://www.coursera.org/account/accomplishments/professional-cert/5HXMWPNZ3YG1  
+
+- **HR Analytics (UC Irvine)**  
+  https://www.coursera.org/account/accomplishments/verify/KHKA1U9VL7C7  
+
+- **Time Management (UC Irvine)**  
+  https://www.coursera.org/account/accomplishments/verify/CO5ITFASH4FZ  
+
+- **Elements of AI for Business (MinnaLearn)**  
+  https://courses.minnalearn.com/certificate/ar/elements-of-ai-for-business/985f42de-a383-417a-a18b-856f4cfa9f71  
+
+---
+
+## 🌍 Languages
+Arabic (Native) • English (Proficient) • French (Intermediate)
+
+---
+
+## 🤝 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/chaouidev/  
+
+💡 Open to **freelance**, **remote**, and **collaboration** opportunities.
